@@ -19,7 +19,6 @@ class DemoController extends Controller
      */
     public function indexAction()
     {
-        echo 'test';
         return array();
     }
 
